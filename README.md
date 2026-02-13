@@ -12,4 +12,4 @@
 说明：
 该摘要用于记录影视网站信息。
 
-Site notes: https://michelleovavf.github.io/    movie-platform-navigation-analytics/
+Site notes: https://michelleovavf.github.io/movie-platform-navigation-analytics/
